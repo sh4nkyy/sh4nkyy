@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Shanky
 
 <!--
 **sh4nkyy/sh4nkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on developing my skills as a software developer.
+🌱 I’m currently learning networking, cyber security, parallel computing and project development in a team
+
+Email in bio
