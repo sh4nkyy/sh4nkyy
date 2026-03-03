@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 🌱 I’m currently learning networking, cyber security, parallel computing and project development in a team  
 
 ## Tech Stack
-
-Languages - Python. NumPy, HTML5, CSS3, JavaScript, TypeScript
-
-Frameworks, Databases, etc - MySQL, Django, Django REST, ReactJS, NextJS, Visual Studio Code
+Languages: Python, Java, C#, C++, C, JavaScript, TypeScript, Haskell, HTML5, CSS3, SQL  
+Libraries: NumPy, Pandas, Matplotlib, PyTorch, PyGame, scikit-learn, ReactJS  
+Backend: Django, Flask, MySQL  
+Frameworks: NextJS, TailwindCSS, Django REST  
+Tools & Embedded Systems: Jupyter Notebooks, Git, GitHub, Linux, Raspberry Pi Pico SDK (GPIO, ADC, PWM), 7-segment displays, RGB LEDs  
+Practices: Database Design, RESTful APIs, Linear & Logistic Regression, Unsupervised Learning  
 
 Email in bio
