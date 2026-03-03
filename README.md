@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on developing my skills as a software developer.
-🌱 I’m currently learning networking, cyber security, parallel computing and project development in a team
+🔭 I’m currently working on developing my skills as a software developer.  
+🌱 I’m currently learning networking, cyber security, parallel computing and project development in a team  
 
 Email in bio
