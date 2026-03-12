@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Shanky
 
 🔭 I’m currently working on developing my skills as a software developer.  
-🌱 I’m currently learning networking, cyber security, parallel computing and software development as a group as part of my creditted academia. Outside of university I read philosophy and psychology to better understand human nature and different schools of thought.  
+🌱 I’m currently learning networking, cyber security, parallel computing and collaborative software development as part of my creditted academia. Outside of university I read philosophy and psychology to better understand human nature and different schools of thought. I also enjoy reading fiction and non-fiction.  
 
 ## Tech Stack
 Languages: Python, Java, C#, C++, C, JavaScript, TypeScript, Haskell, HTML5, CSS3, SQL  
